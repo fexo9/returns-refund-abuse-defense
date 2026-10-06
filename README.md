@@ -21,6 +21,17 @@ You get **two workbooks** (no macros, works in Excel desktop + web and other spr
 | TRAP-LIBRARY | **15 expensive traps** — the quiet ways sellers leak margin on returns, each with *why it costs money* and *the rule* that prevents it |
 | DASHBOARD | **KPI summary** pulling live from the other sheets — print-friendly, review monthly |
 
+## Get the workbook
+
+
+This repository is a preview — the full paid workbooks are available here:
+
+
+- [Buy on Getly](https://www.getly.store/product/returns-refund-abuse-defense-system)
+- [Buy on sell.app](https://digitaltoolkitstore.sell.app/product/returns-refund-abuse-defense-system)
+
+
+
 ## How to use
 
 1. Open the workbook in your language. **Blue cells are your inputs** — white cells calculate automatically.
